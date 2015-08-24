@@ -198,6 +198,8 @@ a {
      }
       input[type="text"], textarea {
         width: 50%;
+        resize: both;
+        overflow: auto;
       }
     }
   }
